@@ -4,9 +4,9 @@ Easily build anything with widgets - from landing pages, online courses & books,
 
 Integrate with all your favorite tools including Jupyter, Obsidian, RStudio, VSCode, and Zotero!
 
-[![nicole-wolf-NdFREMS5P08-unsplash-optimized](https://user-images.githubusercontent.com/7537639/169704437-91db68fd-4e3a-4630-8bed-fa96745ab050.jpg)](https://wowchemy.com/hugo-themes/)
+[![nicole-wolf-NdFREMS5P08-unsplash-optimized](https://user-images.githubusercontent.com/7537639/169704437-91db68fd-4e3a-4630-8bed-fa96745ab050.jpg)](https://wowchemy.com/templates/)
 
-👉 [Get Started!](https://wowchemy.com/hugo-themes/) #OpenSource #OpenScience  
+👉 [Get Started!](https://wowchemy.com/templates/) #OpenSource #OpenScience  
 🌈 Add Open Source contributions to your Résumé! [Learn how to get involved](https://github.com/wowchemy/wowchemy-hugo-themes/blob/main/CONTRIBUTING.md)  
 👩‍💻 [View the Documentation](https://wowchemy.com/docs/)  
 💙 [Sponsor this #OpenSource #OpenScience movement](https://github.com/sponsors/gcushen/)
