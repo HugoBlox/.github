@@ -8,7 +8,7 @@ Chat with AI to build ultra-fast, open-source sites for labs, startups, and STEM
 - **For Labs & Startups:** Auto BibTeX imports, PDF resumes, analytics, newsletters. Build trust, monetize knowledge, scale without servers.
 - **Open-Source Power:** Data ownership, unlimited scale, community-driven. Join 4,000+ on Discord.
 
-| Feature | Benefit for AI Rockstars | Why Hugo Blox? |
+| Feature | Benefit for You | Why Hugo Blox? |
 |---------|--------------------------|----------------|
 | **AI Chat Builder** | Instant site creation via prompts (e.g., "Build a lab site for AGI research") | AI-driven, but open-source with Hugo's static speed—no vendor lock-in or subscription fees like Wix/WordPress; full customization without proprietary limits |
 | **Publication & Portfolio Showcases** | AI-assisted BibTeX/PDF gen; filterable galleries | Easier academic integrations (e.g., Zotero) than Jekyll; own your data unlike hosted platforms (WordPress/Squarespace)—avoid ads, downtime, and export hassles |
