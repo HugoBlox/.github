@@ -18,10 +18,10 @@ Chat with AI to build ultra-fast, open-source sites for labs, startups, and STEM
 [![AI Researcher Coding in Futuristic Lab](https://user-images.githubusercontent.com/7537639/169704437-91db68fd-4e3a-4630-8bed-fa96745ab050.jpg)](https://hugoblox.com/templates/?utm_source=github&utm_medium=hb_org_readme)
 
 👉 [**Try AI Builder Now – Pick a Template**](https://hugoblox.com/templates/?utm_source=github&utm_medium=hb_org_readme)  
-💎 [**Go Pro** – Get Exclusive Templates & Support #OpenResearch](https://hugoblox.com/pro/?utm_source=github&utm_medium=hb_org_readme)  
+💎 [**Go Pro** – Get AI Automation & Support #OpenResearch](https://hugoblox.com/pricing/?utm_source=github&utm_medium=hb_org_readme)  
 👩‍💻 [Docs for Advanced Customizations](https://docs.hugoblox.com/?utm_source=github&utm_medium=hb_org_readme)  
 💬 [Discord: Chat with 4,000+ Innovators](https://discord.gg/z8wNYzb)  
 🐦 [X Updates for AI Tips](https://x.com/BuildLore)  
-🌈 [Contribute – Boost Your Résumé with Open Source Contributions](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md)
+🌈 [Contribute – Boost Your Résumé with Open Source Contributions](https://github.com/HugoBlox/kit/blob/main/CONTRIBUTING.md)
 
 #AI #OpenSource #OpenResearch
