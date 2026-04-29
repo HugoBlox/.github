@@ -30,8 +30,8 @@
   <a href="https://marketplace.visualstudio.com/items?itemName=ownable.ownable">
     <img src="https://img.shields.io/open-vsx/dt/ownable/ownable?label=VS%20Code%20Installs&logo=visualstudiocode&logoColor=white&style=flat-square&color=007ACC" alt="VS Code Installs">
   </a>
-  <a href="https://x.com/MakeOwnable">
-    <img src="https://img.shields.io/twitter/follow/MakeOwnable?label=Follow&logo=x&logoColor=white&style=flat-square&color=000000" alt="Follow on X">
+  <a href="https://x.com/GoOwnable">
+    <img src="https://img.shields.io/twitter/follow/GoOwnable?label=Follow&logo=x&logoColor=white&style=flat-square&color=000000" alt="Follow on X">
   </a>
 
 </div>
@@ -90,6 +90,6 @@
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/sponsors/gcushen">❤️ Sponsor</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://x.com/MakeOwnable">Follow on X</a>
+<a href="https://x.com/GoOwnable">Follow on X</a>
 
 </div>
